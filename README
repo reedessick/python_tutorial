@@ -1,0 +1,25 @@
+Hi Matt;
+
+Welcome to your very own Python tutorial with your guide to the world of basic and not-so-basic scripting, Reed!
+We'll use this repo as a way to pass code back and forth and as a convenient way for me to comment on what you've done and answer questions. 
+The main thing we need to do is define a simple project to start, and then move onto more complicated and interesting things. 
+Depending on how far you want to go, I can even give you real research problems from my work and use you as essentially free labor to get more coding done!
+
+Now, let's begin. 
+Here's what I suggest we start with:
+
+    MyMusic : a basic music library parser that let's you interact with a directory and dynamically view and change how files are stored.
+
+Here's what I'd like you to do at some point:
+
+    ReedsResearch : write a Monte Carlo Markov Chain implementation to sample from a not-so-simple distribution quickly and efficiently.
+
+I've defined some basic structure for MyMusic so you have a starting point. 
+I've also defined a list of tasks/functionality within those files that you should try to achieve.
+
+Email is probably the best way to bug me about this stuff if you have questions. 
+Route them through reed@rbe4.org and you should see responses in less than a day.
+
+cheers
+
+
